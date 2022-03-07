@@ -1,0 +1,25 @@
+{
+  "name": "easportsufcfour-webapp",
+  "version": "1.0.0",
+  "description": "<div id=\"top\"></div> <!-- *** Thanks for checking out the Best-README-Template. If you have a suggestion *** that would make this better, please fork the repo and create a pull request *** or simply open an issue with the tag \"enhancement\". *** Don't forget to give the project a star! *** Thanks again! Now go create something AMAZING! :D -->",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkanturkmen/easportsufcfour-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkanturkmen/easportsufcfour-webapp/issues"
+  },
+  "homepage": "https://github.com/furkanturkmen/easportsufcfour-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
