@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/furkanturkmen/config-dot-gitconfig">
-    <img src="https://i.imgur.com/qnPLDXL.png" alt="Logo" width="600" height="175">
+    <!-- <img src="https://i.imgur.com/qnPLDXL.png" alt="Logo" width="600" height="175"> -->
   </a>
 
 <h3 align="center">EASPORTS UFC Tracker</h3>
